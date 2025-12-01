@@ -75,3 +75,24 @@ User → OrchestratorAgent
      → OrchestratorAgent (confirm choice)
      → NotificationAgent (confirmation & summary)
      → User
+
+
+agents/
+  orchestrator_agent.py
+  triage_agent.py
+  scheduler_agent.py
+  notification_agent.py
+
+tools/
+  clinic_scheduler_tool.py
+  calendar_tool.py
+
+memory/
+  session_service.py
+  patient_memory.py
+
+evaluation/
+  test_scenarios.py
+
+main.py
+README.md
