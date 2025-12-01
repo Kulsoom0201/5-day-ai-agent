@@ -9,15 +9,14 @@ It reduces scheduling friction, avoids calendar conflicts, and remembers patient
 Submission for Kaggle – Agents Intensive Capstone Project
 Track: 🩺 Agents for Good
 
-🔎 Problem
+## Problem
 
 In many clinics — especially in low-resource settings — appointments are still managed through:
 
-Phone calls
+- Phone calls  
+- Notebooks or spreadsheets  
+- Manual calendar checking  
 
-Notebooks or spreadsheets
-
-Manual calendar checking
 
 This creates:
 
