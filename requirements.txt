@@ -1,1 +1,11 @@
+# requirements.txt
+# CareFlow — Healthcare Appointment Assistant
+# Currently uses only Python standard library and does not require external packages.
+# If you later add an LLM or web UI, list the libraries below (example):
+#
+# google-generativeai
+# flask
+# fastapi
+#
+# For now, no installation besides Python 3.9+ is required.
 
